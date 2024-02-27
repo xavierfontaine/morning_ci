@@ -10,4 +10,4 @@ Coding style (linting/formatting):
 
 
 # Continuous integration (CI)
-
+A shield preventing people to push bad stuff.
