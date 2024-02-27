@@ -6,8 +6,13 @@ Unit tests:
 Coding style (linting/formatting):
 * In Python, there are coding guides widely adopted by the community. ([PEP8](https://peps.python.org/pep-0008/))
 * There are tools to check you are following those practices (`flake8`)
-* There are tools to format automatically your code (`black`)
-
+* There are tools to format automatically your code (`black`) /!\
 
 # Continuous integration (CI)
 A shield preventing people to push bad stuff.
+
+# Continuous deployment (CD)
+Deploying automatically the code after you've pushed/merged/etc. it.
+* Build docker image
+* Push it to GCP
+* \o/
